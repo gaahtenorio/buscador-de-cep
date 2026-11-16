@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "minha-api-app",
-    "slug": "minha-api-app",
+    "name": "Buscador de CEP",
+    "slug": "buscador-de-cep",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
